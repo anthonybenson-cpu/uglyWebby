@@ -20,8 +20,8 @@ p {
 
 textarea {
     margin: 20px;
-    width: 300px;
-    height: 150px;
+    width: 200px;
+    height: 300px;
 }
 
 ul, ol {
@@ -31,7 +31,7 @@ ul, ol {
 
 li {
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid pink#ccc;
 }
    
 li:last-child {
